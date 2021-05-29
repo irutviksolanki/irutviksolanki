@@ -7,7 +7,7 @@
 ### <i>Competitive programmer/Full stack developer</i>
 <br/>
 
-- 🥅 2020 Goals: make better profile for future
+- 🥅 2021 Goals: make better profile for future
 - 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
 - I'm currently focusing on improving my DS and Algo skill
 
